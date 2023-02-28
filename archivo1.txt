@@ -1,3 +1,7 @@
 Viva la Vida
 Segunda modificacion remota
+<<<<<<< HEAD
 Tercera modificacion local
+=======
+Tercera modificacion remota
+>>>>>>> aa080c5791c58c6559204434d521323991ccc129
